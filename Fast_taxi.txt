@@ -1,0 +1,38 @@
+FUNCTIONS
+
+- Đăng nhập với số điện thoại (Login with Phone Number) (Driver and User)
+- Đăng xuất
+- Xác minh số điện thoại (OTP verificate Phone Number)
+- Chỉnh sửa thông tin cá nhân (Profile Setting)
+- Hiển thị bản đồ (Google Maps)
+- Chọn điểm đến từ 1 vị trí nào đó (From ? to ?)
+- Xem và chỉnh sửa Profile (My Profile)
+- Vẽ lộ trình đi từ 1 vị trí tới 1 vị trí (From ? to ?)
+- Hiển thị tài xế có sẵn (Driver Available)
+- Chọn phương thước thanh toán (Payment)
+- Thêm thẻ thanh toán (Add Payment Card)
+
+
+LINKS
+
+https://stackoverflow.com/ (Debug)
+https://console.firebase.google.com/ (Firebase database)
+https://pub.dev/ (Flutter libraries)
+https://console.cloud.google.com/ (Get API key Google services)
+https://mapstyle.withgoogle.com/ (Custom maps and get code .json)
+
+
+
+Note: Mở app lên -> Yêu cầu cấp quyền vị trí -> Chọn phương thức đăng nhập (User or Driver)
+DRIVER
+- Đăng nhập (Xác minh số điện thoại, Nhập thông tin cá nhân, Upload Avatar, nhập thông tin đăng ký xe, Upload giấy tờ xe)
+- Nhận chuyến xe
+- Xem thu nhập
+- Xem và cập nhật thông tin cá nhân
+USER
+- Đăng nhập (Xác minh số điện thoại, Nhập thông tin cá nhân, Upload Avatar)
+- Đặt xe (Chọn điểm đến, chọn điểm đón, Chọn phương thức thanh toán, Chọn tài xế có sẵn, Hiển thị lộ trình đi)
+- Xem và cập nhật thông tin cá nhân
+- Xem thẻ thanh toán
+- Thêm thẻ thanh toán
+- Đăng xuất

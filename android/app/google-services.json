@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "615963552",
+    "project_id": "fasttaxi-accec",
+    "storage_bucket": "fasttaxi-accec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615963552:android:c6f1ca555970348e31e2c5",
+        "android_client_info": {
+          "package_name": "com.example.fast_taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfcFfq855t5evfpNA0kwvtgYq4TGIXfQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
