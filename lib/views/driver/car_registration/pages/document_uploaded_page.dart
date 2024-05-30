@@ -39,15 +39,15 @@ class _DocumentUploadedPageState extends State<DocumentUploadedPage> {
                   width: 1
               )
           ),
-          child: const Row(
+          child: Row(
             children: [
-              Icon(Icons.cloud_upload,size: 40,color: Color(0xff7D7D7D),),
+              const Icon(Icons.cloud_upload,size: 40,color: Color(0xff7D7D7D),),
 
-              SizedBox(width: 10,),
+              const SizedBox(width: 10,),
               Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 crossAxisAlignment: CrossAxisAlignment.start ,
-                children: [
+                children: const [
                   Text(
                     'Đăng ký thông tin xe',
                     style: TextStyle(

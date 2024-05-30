@@ -609,9 +609,9 @@ class _HomeState extends   State<Home> {
                     )
                   ]
               ),
-              child: const Row(
+              child: Row(
                 mainAxisAlignment: MainAxisAlignment.center,
-                children: [
+                children: const [
                   Text(
                     "Tìm kiếm vị trí",
                     style: TextStyle(

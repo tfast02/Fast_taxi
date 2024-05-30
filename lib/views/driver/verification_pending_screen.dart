@@ -22,10 +22,10 @@ class _VerificationPendingScreenState extends State<VerificationPendingScreen> {
           fastIntroWidgetWithoutLogos(title: 'Thông báo!',subtitle: 'Trạng thái đăng ký'),
 
           const SizedBox(height: 20,),
-          const Expanded(child: Column(
+          Expanded(child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             crossAxisAlignment: CrossAxisAlignment.center,
-            children: [
+            children:  const [
               Text(
                 'Hoàn tất đăng ký',
                 style: TextStyle(
